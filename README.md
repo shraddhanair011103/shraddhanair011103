@@ -13,7 +13,7 @@ From AI to web development, I'm always excited to learn and create. 🚀
 ---
 
 
-## ## 📚 Education
+## 📚 Education
 
 **Bachelor of Technology (B.Tech)**  
 *Computer Science and Engineering*  
