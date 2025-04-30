@@ -12,6 +12,14 @@ From AI to web development, I'm always excited to learn and create. 🚀
 
 ---
 
+
+## ## 📚 Education
+
+**Bachelor of Technology (B.Tech)**  
+*Computer Science and Engineering*  
+Vellore Institute of Technology Chennai, India. 
+
+---
 ## 🚀 What I Enjoy
 
 - 💻 Coding in Python, Java, and JavaScript  
